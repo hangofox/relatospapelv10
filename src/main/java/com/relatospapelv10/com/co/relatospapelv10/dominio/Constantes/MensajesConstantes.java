@@ -52,10 +52,6 @@ public class MensajesConstantes {
     public static final String MSG_REGISTRO_NUMERO_TARJETA_PROFESIONAL_O_EMPRESA_YA_EXISTE = "Número de la Tarjeta Profesional o Empresa del Registro ya existe en Base de Datos.";
     public static final String MSG_REGISTRO_NICKNAME_YA_EXISTE = "Nickname de Usuario del Registro ya existe en Base de Datos.";
     public static final String MSG_REGISTRO_PRIVILEGIO_Y_RESTRICCION_YA_EXISTEN = "Privilegio y Restricción del Registro para el usuario ya existe en Base de Datos.";
-    public static final String MSG_REGISTRO_SIGLA_O_ACRONIMO_YA_EXISTE = "Sigla o Acrónimo del Registro ya existe en Base de Datos.";
-    public static final String MSG_REGISTRO_NOMBRE_EN_UNIDAD_MILITAR_YA_EXISTE = "Nombre del Registro ya existe en esta Unidad Militar.";
-    public static final String MSG_REGISTRO_NOMBRE_EN_SISTEMA_OPERATIVO_YA_EXISTE = "Nombre del Registro ya existe en este Sistema Operativo Instalado.";
-    public static final String MSG_REGISTRO_NOMBRE_EN_PAQUETE_SOFT_OFIM_INSTALADO_YA_EXISTE = "Nombre del Registro ya existe en este Paquete de Software Instalado (Ofimática).";
     public static final String MSG_REGISTRO_NOMBRE_EN_ANTIVIRUS_YA_EXISTE = "Nombre del Registro ya existe en este Antivirus Instalado.";
     public static final String MSG_REGISTRO_CAPACIDAD_YA_EXISTE = "Capacidad del Registro ya existe en Base de Datos.";
     public static final String MSG_REGISTRO_NUMERO_SERIAL_YA_EXISTE = "Número Serial del Registro ya existe en Base de Datos.";
